@@ -1,5 +1,5 @@
 
-# ft_ls - copy of ls
+# ft_ls - copy of ls-command
 
 My own version of **ls** command. Works with following flags: `-R -a -l -r -t`.
 

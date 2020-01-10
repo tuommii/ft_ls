@@ -1,5 +1,7 @@
 
 # ft_ls - copy of ls-command
+<img src="https://github.com/tuommii/ft_ls/blob/master/ft_ls.png" width="300">
+
 
 My own version of **ls** command. Works with following flags: `-R -a -l -r -t`.
 
